@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi , I'm George 👋 
+- 🎯 Currently aiming to be better
+- 🎮 I’m currently learning more about game development and general coding in C# and C++
+- 📰 I’m looking for a full time position in the gamedev industry
+- 🥅 2022 Goals: Become more proficient in Unity and start learning UE5
+- ⚡ Fun fact: I love to bike, workout and hike a lot
 
-<!--
-**George540/George540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/georgemavroeidis/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/georgemavroeidis/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/georgemavroeidis/
